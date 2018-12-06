@@ -11,7 +11,7 @@
 > It can be found on this webpage
 > https://guides.rubyonrails.org/getting_started.html
 
-## File/Folder	Purpose
+## Rails generated File/Folder	Purpose
 >**app/**	Contains the controllers, models, views, helpers, mailers, channels, jobs and assets for your application. You'll focus on this folder for the remainder of this guide.
 
 >**bin/**	Contains the rails script that starts your app and can contain other scripts you use to setup, update, deploy or run your application.
